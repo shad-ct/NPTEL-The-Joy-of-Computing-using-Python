@@ -1,5 +1,9 @@
 # Week 2 Quiz 💡
 
+**Navigation:** [⬅️ Previous Week](../Week1/) | [Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week3/)
+
+---
+
 **1. When we save a Python code it will be saved as file name with the extension?**
  - .p
  - .pyt
@@ -77,3 +81,7 @@ If you want to say Hi to both the users, print their names and welcome them to y
  - var1
  - Var1
  - var 1 ✅
+
+---
+
+**Navigation:** [⬅️ Previous Week](../Week1/) | [Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week3/)
