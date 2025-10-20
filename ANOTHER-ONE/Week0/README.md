@@ -1,5 +1,9 @@
 # Week 0 Quiz 💡
 
+**Navigation:** [⬅️ Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week1/)
+
+---
+
 **1. What are the prime factors of the number 124**
  - 2,62
  - 2,31 ✅
@@ -69,3 +73,7 @@
  - 1:5
  - 2:5
  - 1:2 ✅
+
+---
+
+**Navigation:** [⬅️ Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week1/)

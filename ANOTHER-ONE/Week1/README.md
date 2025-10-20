@@ -1,5 +1,9 @@
 # Week 1 Quiz 💡
 
+**Navigation:** [⬅️ Previous Week](../Week0/) | [Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week2/)
+
+---
+
 **1. A function calling itself with a smaller instance is called as________________**
  - Recursion ✅
  - Self-calling function
@@ -68,3 +72,7 @@
  - Power of 2
  - Factorial of x
  - None of the above
+
+---
+
+**Navigation:** [⬅️ Previous Week](../Week0/) | [Back to ANOTHER-ONE](../) | [Next Week ➡️](../Week2/)

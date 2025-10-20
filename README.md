@@ -12,6 +12,20 @@ NPTEL-The-Joy-of-Computing-using-Python with NOTES and Weekly quizes Answers <br
 - **Assignments:** [Assignments](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Assignments)
 - **Question papers:** [QPP](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Question%20Papers)
 
+## ANOTHER-ONE - Complete Course Resources 🔥
+
+The **[ANOTHER-ONE](ANOTHER-ONE/)** directory contains comprehensive course materials organized by weeks:
+
+- **📚 [Complete Course Index](ANOTHER-ONE/README.md)** - Table of contents with direct links to all weeks and resources
+- **📝 Weekly Quizzes** - Week 0 through Week 12 with solutions
+- **💻 Programming Assignments** - Weekly programming tasks and solutions
+- **📖 Course Archives** - Previous session materials (Aug-Dec 2021, Jan-Apr 2022)
+- **🎯 [Exam Pattern Guide](ANOTHER-ONE/Exam%20Pattern.md)** - Tips and exam preparation
+- **📋 [Code of Conduct](ANOTHER-ONE/Code%20Of%20Conduct.md)**
+
+**Quick Access to Weeks:**
+[Week 0](ANOTHER-ONE/Week0/) | [Week 1](ANOTHER-ONE/Week1/) | [Week 2](ANOTHER-ONE/Week2/) | [Week 3](ANOTHER-ONE/Week3/) | [Week 4](ANOTHER-ONE/Week4/) | [Week 5](ANOTHER-ONE/Week5/) | [Week 6](ANOTHER-ONE/Week6/) | [Week 7](ANOTHER-ONE/Week7/) | [Week 8](ANOTHER-ONE/Week8/) | [Week 9](ANOTHER-ONE/Week9/) | [Week 10](ANOTHER-ONE/Week10/) | [Week 11](ANOTHER-ONE/Week11/) | [Week 12](ANOTHER-ONE/Week12/)
+
 ## Course Details
 
 - **Instructor:** Prof. Sudarshan Iyengar, Associate Professor at IIT Ropar
