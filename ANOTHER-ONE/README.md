@@ -1,53 +1,53 @@
-# NPTEL-The-Joy-of-Computing-using-Python🔥
+# ANOTHER-ONE — Joy of Computing using Python (course materials)
 
-## THE JOY OF COMPUTING USING PYTHON
+This folder collects course materials, weekly notes, quizzes and solutions for the "Joy of Computing using Python" (JOC) course. All links point to files and folders inside this repository for one‑click navigation.
 
-![NPTEL-The-Joy-of-Computing-using-Python](https://socialify.git.ci/kishanrajput23/NPTEL-The-Joy-of-Computing-using-Python/image?description=1&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+Quick links
+- [Code Of Conduct](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Code%20Of%20Conduct.md)
+- [Exam Pattern](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Exam%20Pattern.md)
+- [Aug - Dec 2021 JOC Course (course folder)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course)
+- [Jan - Apr 2022 JOC Course (course folder)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Jan%20-%20Apr%202022%20JOC%20Course)
+- [JOC previous years weekly quizes](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/JOC%20previous%20years%20weekly%20quizes)
+- [Online Programming Test Solution](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Online%20Programming%20Test%20Solution)
+- [NPTEL Course Lecture Programmes](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/NPTEL-Course-Lecture%20Programmes)
 
-### Here is the course link : [CLICK HERE](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)
+Table of contents (one-click links)
 
-### Want To Know Exam Pattern : [CLICK HERE](https://github.com/kishanrajput23/NPTEL-The-Joy-of-Computing-using-Python/blob/main/Jan%20-%20Apr%202022%20JOC%20Course/README.md) 👈
+1) Weekly materials — top-level Week folders
+- [Week0](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week0)
+- [Week1](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week1)
+- [Week2](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week2)
+- [Week3](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week3)
+- [Week4](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week4)
+- [Week5](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week5)
+- [Week6](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week6)
+- [Week7](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week7)
+- [Week8](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week8)
+- [Week9](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week9)
+- [Week10](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week10)
+- [Week11](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week11)
+- [Week12](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Week12)
 
-A fun filled whirlwind tour of 30 hrs, covering everything you need to know to fall in love with the most sought after skill of the 21st century. The course brings programming to your desk with anecdotes, analogies and illustrious examples. Turning abstractions to insights and engineering to art, the course focuses primarily to inspire the learner's mind to think logically and arrive at a solution programmatically. As part of the course, you will be learning how to practice and culture the art of programming with Python as a language. At the end of the course, we introduce some of the current advances in computing to motivate the enthusiastic learner to pursue further directions.
+2) Aug - Dec 2021 JOC Course — direct links to the per-week READMEs (course archive)
+- [Week 0 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%200/README.md)
+- [Week 1 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%201/README.md)
+- [Week 2 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%202/README.md)
+- [Week 3 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%203/README.md)
+- [Week 4 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%204/README.md)
+- [Week 5 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%205/README.md)
+- [Week 6 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%206/README.md)
+- [Week 7 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%207/README.md)
+- [Week 8 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%208/README.md)
+- [Week 9 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%209/README.md)
+- [Week 10 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%2010/README.md)
+- [Week 11 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%2011/README.md)
+- [Week 12 — Quiz & notes (README)](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/blob/main/ANOTHER-ONE/Aug%20-%20Dec%202021%20JOC%20Course/Week%2012/README.md)
 
-### [Introduction The Joy of Computing using Python](https://youtu.be/vgoffYa7_7E)
+3) Other resources & solutions
+- [JOC previous years weekly quizes](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/JOC%20previous%20years%20weekly%20quizes)
+- [Online Programming Test Solution](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/Online%20Programming%20Test%20Solution)
+- [NPTEL Course Lecture Programmes](https://github.com/shad-ct/NPTEL-The-Joy-of-Computing-using-Python/tree/main/ANOTHER-ONE/NPTEL-Course-Lecture%20Programmes)
 
-**📌 INTENDED AUDIENCE	:**  Any interested audience
-
-**📌 PREREQUISITES		:**  10th standard/high school
-
-**📌 INDUSTRY SUPPORT	:**  Every software company is aware of the potential of a first course in computer science. Especially of a first course in computing, done right.
-
-**📌 COURSE TYPE :** Elective
-
-**📌 COURSE LEVEL :** Undergraduate/Postgraduate
-
-**📌 COURSE LAYOUT :**
-- Motivation for Computing
-- Welcome to Programming!!
-- Variables and Expressions : Design your own calculator
-- Loops and Conditionals : Hopscotch once again
-- Lists, Tuples and Conditionals : Lets go on a trip
-- Abstraction Everywhere : Apps in your phone
-- Counting Candies : Crowd to the rescue
-- Birthday Paradox : Find your twin
-- Google Translate : Speak in any Language
-- Currency Converter : Count your foreign trip expenses
-- Monte Hall : 3 doors and a twist
-- Sorting : Arrange the books
-- Searching : Find in seconds
-- Substitution Cipher : What’s the secret !!
-- Sentiment Analysis : Analyse your Facebook data
-- 20 questions game : I can read your mind
-- Permutations : Jumbled Words
-- Spot the similarities : Dobble game
-- Count the words : Hundreds, Thousands or Millions.
-- Rock, Paper and Scissor : Cheating not allowed !!
-- Lie detector : No lies, only TRUTH
-- Calculation of the Area : Don’t measure.
-- Six degrees of separation : Meet your favourites
-- Image Processing : Fun with images
-- Tic tac toe : Let’s play
-- Snakes and Ladders : Down the memory lane.
-- Recursion : Tower of Hanoi
-- Page Rank : How Google Works !!
+Notes
+- I left folder/file names intact to preserve history; links point to the repository paths so each link opens the exact file or folder.
+- If you want an index README inside each WeekX folder that lists the files in that folder (auto-generated TOC), I can prepare that content too.
